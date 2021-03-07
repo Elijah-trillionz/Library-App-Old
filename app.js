@@ -1,25 +1,3 @@
-// make a library
-// in libraries, there are different sections that could be made up of arts, social science, science.
-// this can also be in-depth and divided into courses of study.
-
-// in this tutorial we will make a basic high school library app consisting arts, social sciences, and sciences.
-
-// each section will have a class
-
-// algorithm
-/*
- ** 1: have a basic section class
- ** 2: create sections to extend to the section class
- */
-
-//  features
-/*
- ** 1: A book can be borrowed out of the library
- ** 2: Books can be read inside the library
- ** 3: A book can be returned back to its shelf the right place to be.
- ** 4: A book can be returned back to the library
- */
-
 // PROJECT DONE by ELIJAH TRILLIONZ
 
 class LibrarySection {
